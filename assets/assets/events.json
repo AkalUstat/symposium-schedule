@@ -50,8 +50,8 @@
     "isSpecial": false
   },
   {
-    "title": "Reception",
-    "location": "Opening Remarks",
+    "title": "Opening Remarks",
+    "location": "Library Breezeway ",
     "startTime": "2026-03-18T14:15:00 ",
     "endTime": "2026-03-18T14:30:00 ",
     "shortDescription": "Dr. Gladys Frances (Dean of Arts and Letters, California State University, Sacramento) ",
@@ -61,7 +61,7 @@
   },
 
   {
-    "title": "The Public Reading of the Declaration of Independence. ",
+    "title": "Public Reading of the Declaration of Independence. ",
     "location": "Library Quad ",
     "startTime": "2026-03-18T14:30:00 ",
     "endTime": "2026-03-18T15:00:00 ",
@@ -96,7 +96,7 @@
     "startTime": "2026-03-18T15:00:00 ",
     "endTime": "2026-03-18T16:00:00 ",
     "shortDescription": "Chair. Dr. Stephanie Seery-Murphy (California State University, Sacramento) ",
-    "longDescription": "Dr. Amy Speckart (University of Virginia)\n\"Unfinished Genealogies: Freedom Seekers in the Household of Thomas Stone, Signer of the Declaration of Independence for Maryland.\"\n\nMr. Amer Hamid (California State University, Fullerton)\n\"Decoding the Declaration: Eighteenth-Century English Poetics and the Poetics of the US Declaration of Independence\"",
+    "longDescription": "Dr. Amy Speckart (University of Virginia)\n\"Unfinished Genealogies: Freedom Seekers in the Household of Thomas Stone, Signer of the Declaration of Independence for Maryland\"\n\nMr. Amer Hamid (California State University, Fullerton)\n\"Decoding the Declaration: Eighteenth-Century English Poetics and the Poetics of the US Declaration of Independence\"",
     "session": "Session 1 - Concurrent Sessions ",
     "isSpecial": false
   },
@@ -171,8 +171,8 @@
     "isSpecial": false
   },
   {
-    "title": "Union Entryway",
-    "location": "Campus",
+    "title": "Campus Tour",
+    "location": "Union Entryway",
     "startTime": "2026-03-19T13:00:00 ",
     "endTime": "2026-03-19T14:00:00 ",
     "shortDescription": null,
@@ -196,7 +196,7 @@
     "startTime": "2026-03-19T16:00:00 ",
     "endTime": "2026-03-19T17:00:00 ",
     "shortDescription": "Chair. Dr. Serpil Atamaz-Topcu (History, California State University, California) ",
-    "longDescription": "Dr. Elizabeth Hancox (Luiss University)\n\"She had always the management thereof”: Commercial and Legal Agency of Dutch Women in New Netherland and Colonial New York.\"\n\nAlexander Von Sternberg (California State University, Long Beach)\n\"A Storm of Decay: Institutional Erosion After Salem.\"",
+    "longDescription": "Dr. Elizabeth Hancox (Luiss University)\n\"She had always the management thereof”: Commercial and Legal Agency of Dutch Women in New Netherland and Colonial New York\"\n\nAlexander Von Sternberg (California State University, Long Beach)\n\"A Storm of Decay: Institutional Erosion After Salem\"",
     "session": "Session 5 - Concurrent Sessions ",
     "isSpecial": false
   },
@@ -206,7 +206,7 @@
     "startTime": "2026-03-19T16:00:00 ",
     "endTime": "2026-03-19T17:00:00 ",
     "shortDescription": "Chair. Dr. Liam Murphy (Anthropology Department Chair, California State University, Sacramento) ",
-    "longDescription": "Dr. Margo Lambert (University of Cincinnati Blue Ash College)\n\"Francis Daniel Pastorius, German Immigration, and Abolition.\" \n\nEric Schubert (Millersville University)\n\"Lancaster County Mennonites in the American Revolution\"",
+    "longDescription": "Dr. Margo Lambert (University of Cincinnati Blue Ash College)\n\"Francis Daniel Pastorius, German Immigration, and Abolition\" \n\nEric Schubert (Millersville University)\n\"Lancaster County Mennonites in the American Revolution\"",
     "session": "Session 5 - Concurrent Sessions ",
     "isSpecial": false
   },
@@ -256,7 +256,7 @@
     "startTime": "2026-03-20T10:00:00 ",
     "endTime": "2026-03-20T11:00:00 ",
     "shortDescription": "Chair. Dr. Troy Crowder (History, California State University, Sacramento) ",
-    "longDescription": "Dr. Antonio T. Bly, (History, California State University, Sacramento) \n\nDr. Billy G. Smith (Montana State University) \n\nMr. Isaac Lee (University of Madison-Wisconsin) ",
+    "longDescription": "Dr. Antonio T. Bly, (History, California State University, Sacramento) \nDr. Billy G. Smith (Montana State University) \nMr. Isaac Lee (University of Madison-Wisconsin) ",
     "session": "Plenary ",
     "isSpecial": false
   },
@@ -276,7 +276,7 @@
     "startTime": "2026-03-20T11:00:00 ",
     "endTime": "2026-03-20T12:00:00 ",
     "shortDescription": "Chair. Dr. Rebekkah Mulholland (History, California State University, Sacramento) ",
-    "longDescription": "Dr. Christian Martin Brooks (California Polytechnic State University, San Luis Obispo)\n\"Afro-Californios in El Pueblo de Nuestra Señora la Reina de los Ángeles\" \n\nDr. Amanda McGee (University of Arkansas)\n\"From Subjects to Citizens?: Mapping the Transformative Landscape of Residency in Pennsylvania in the Early American Republic.\" ",
+    "longDescription": "Dr. Christian Martin Brooks (California Polytechnic State University, San Luis Obispo)\n\"Afro-Californios in El Pueblo de Nuestra Señora la Reina de los Ángeles\" \n\nDr. Amanda McGee (University of Arkansas)\n\"From Subjects to Citizens?: Mapping the Transformative Landscape of Residency in Pennsylvania in the Early American Republic\" ",
     "session": "Session 5 - Concurrent Sessions ",
     "isSpecial": false
   },
@@ -286,7 +286,7 @@
     "startTime": "2026-03-20T11:00:00 ",
     "endTime": "2026-03-20T12:00:00 ",
     "shortDescription": "Chair. Dr. Candace Gregory (History, California State University, Sacramento) ",
-    "longDescription": "Dr. Deborah Fisher (Pennsylvania State University)\n\"A Colonial American Ceres: Metamorphosis and Becoming in John Singleton Copley’s Mrs. Elizabeth Goldthwait.\" \n\nDr. Jason Daniels (California State University, East Bay)\n\"Friends among Strangers: Quaker and Catholic Encounters in Spanish Florida and French Saint-Domingue.\"",
+    "longDescription": "Dr. Deborah Fisher (Pennsylvania State University)\n\"A Colonial American Ceres: Metamorphosis and Becoming in John Singleton Copley’s Mrs. Elizabeth Goldthwait\" \n\nDr. Jason Daniels (California State University, East Bay)\n\"Friends among Strangers: Quaker and Catholic Encounters in Spanish Florida and French Saint-Domingue\"",
     "session": "Session 5 - Concurrent Sessions ",
     "isSpecial": false
   },
@@ -306,7 +306,7 @@
     "startTime": "2026-03-20T11:00:00 ",
     "endTime": "2026-03-20T12:00:00 ",
     "shortDescription": "Chair. Dr. Brian Baker (Ethnic Studies Chair, California State University, Sacramento) ",
-    "longDescription": "Dr. Daniel Russell (California State University, Northridge)\n\"A Legacy of Love: How David Zeisberger’s Intellectual Influences and Personal Challenges Shaped His Interactions With Indigenous People in 18th Century North America.\" \n\nRebecca Simpson Menzies (TBA)\n\"An Oath Breaker or an Unjust Judge? The Story of a Seventeenth Connecticut Plantation that Seceded to the Bay Colony\"",
+    "longDescription": "Dr. Daniel Russell (California State University, Northridge)\n\"A Legacy of Love: How David Zeisberger’s Intellectual Influences and Personal Challenges Shaped His Interactions With Indigenous People in 18th Century North America\" \n\nRebecca Simpson Menzies (TBA)\n\"An Oath Breaker or an Unjust Judge? The Story of a Seventeenth Connecticut Plantation that Seceded to the Bay Colony\"",
     "session": "Session 5 - Concurrent Sessions ",
     "isSpecial": false
   },
@@ -326,7 +326,7 @@
     "startTime": "2026-03-20T13:30:00 ",
     "endTime": "2026-03-20T15:00:00 ",
     "shortDescription": "Chair. Sherri Meyer (English, California State University, Sacramento) ",
-    "longDescription": "Dr. Jim German (History, California State University, Sacramento) \n\nDr. Mark Brown (Political Science, California State University, Sacramento) \n\nDr. Maria Quintana (History, California State University, Sacramento) ",
+    "longDescription": "Dr. Jim German (History, California State University, Sacramento) \nDr. Mark Brown (Political Science, California State University, Sacramento) \nDr. Maria Quintana (History, California State University, Sacramento) ",
     "session": "Plenary ",
     "isSpecial": true
   },
