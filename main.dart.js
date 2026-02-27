@@ -85118,7 +85118,7 @@ $S:0}
 A.y0.prototype={
 wm(){var s=0,r=A.O(t.H),q
 var $async$wm=A.K(function(a,b){if(a===1)return A.L(b,r)
-for(;;)switch(s){case 0:q=A.ju("https://www.csus.edu/college/arts-letters/history/shattuck-endowment/programs.html",0,null)
+for(;;)switch(s){case 0:q=A.ju("https://docs.google.com/forms/d/e/1FAIpQLSevZg1n-MUGCOrQ6-uuGYAdaffpflyuY1H17kJZFxMvzIT5Zg/viewform",0,null)
 s=2
 return A.P(A.au3(q,B.G7),$async$wm)
 case 2:if(!b)throw A.i(A.cs("Could not launch "+q.k(0)))
